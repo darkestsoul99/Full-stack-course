@@ -1,0 +1,24 @@
+p {
+    color: white;
+}
+
+.red{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.green {
+    background-color: green;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.blue {
+    background-color: blue;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}

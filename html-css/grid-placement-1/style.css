@@ -1,0 +1,16 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.item {
+    font-size: 1rem;
+    color: white;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
