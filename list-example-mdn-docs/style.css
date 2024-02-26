@@ -1,0 +1,17 @@
+ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: baseline;
+  }
+  
+  li {
+  flex-grow: 1;
+  border: 5px solid whitesmoke;
+  border-radius: 25%;
+  list-style: none;
+  background-color: blue;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px 10px 10px 10px;
+  }
